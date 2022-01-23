@@ -1,0 +1,26 @@
+{
+  "name": "noobie-unity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "canvacord": "^5.2.1",
+    "discord-canvas": "^1.4.1",
+    "discord-reply": "^0.1.2",
+    "discord-xp": "^1.1.14",
+    "discord.js": "^12.5.3",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.1",
+    "mongoose": "^5.12.13",
+    "ms": "^2.1.2",
+    "quickmongo": "^3.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,5 @@
+{
+    "token":"", //PUT YOUR TOKEN HER
+    "prefix":"!",
+    "mongoDBURL":"" // PUT HERE YOUR MONGODB URL
+}
